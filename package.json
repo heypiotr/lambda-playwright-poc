@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aws-lambda-ric": "2.0.0",
+    "playwright": "1.21.1"
+  }
+}
